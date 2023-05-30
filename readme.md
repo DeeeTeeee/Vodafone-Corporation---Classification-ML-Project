@@ -1,5 +1,5 @@
 # Vodafone Corporation -- ML Project:
-Description:
+## Description:
 
 This is a telecommunications company's customer dataset, containing various demographic and usage information for each customer, as well as whether or not they have churned (i.e. cancelled their service). Here are the meanings of the columns:
 
